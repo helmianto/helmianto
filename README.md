@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Helto! 👋
+
+<img src="https://github-readme-stats.vercel.app/api?username=helmianto&show_icons=true&theme=transparent" width="47%" align="left" /> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmianto&layout=compact" width="47%" align="left" /> 
 
 <!--
 **helmianto/helmianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

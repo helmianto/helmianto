@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Helto, a Fullstack Developer who loves and interested in learning new things.
-- 🔭 I’m currently working at one of the regional civil service agencies in my country
-- 🌱 I'm currently learning to dive deep into clean code architectures
+- 🔭 Currently, I work in one of the regional government organizational units in my country
+- 🌱 Currently, I am learning to explore clean code architecture to increase the maintainability of the applications I create
 
 <img src="https://github-readme-stats.vercel.app/api?username=helmianto&show_icons=true&theme=transparent" /> 
 
